@@ -1,4 +1,4 @@
-# 📝 To-Do List with AI Assistant
+# 📝 Airline Revenue & Demand Analytics – SQLite + Power BI
 
 A beginner-friendly Python web app to manage **work** and **personal** tasks with an **AI assistant** for suggestions.
 
