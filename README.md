@@ -1,11 +1,17 @@
 # 📝 Airline Revenue & Demand Analytics – SQLite + Power BI
 
-A beginner-friendly Python web app to manage **work** and **personal** tasks with an **AI assistant** for suggestions.
+This project simulates a Revenue Analyst role analyzing airline booking data from a Dubai (DXB) hub. Using SQLite for data analysis and Power BI for visualization, the project evaluates route performance, load factors, seasonality, and revenue optimization opportunities.
 
-## Features
+## Tools Used
 
-- Add, remove, and view tasks
-- Separate categories: work & personal
-- AI suggestions via OpenAI
-- Web interface using Streamlit
-- Tasks saved automatically
+- SQLite
+- SQL (aggregation, grouping, filtering)
+- Power BI
+- Excel
+
+## Business Insights
+
+- Identified top revenue-generating routes.
+- Evaluated load factor efficiency by aircraft type.
+- Analyzed seasonal revenue patterns.
+- Detected pricing optimization opportunities on high-demand routes.
